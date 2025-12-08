@@ -9,7 +9,6 @@ const config = {
   reactStrictMode: true,
   experimental: {
     reactCompiler: true,
-    ppr: true,
     staleTimes: {
       dynamic: 180,
       static: 180,
